@@ -4,8 +4,8 @@ import time
 import os
 
 # Replace 'YOUR_BOT_TOKEN' with your actual Telegram bot token
-BOT_TOKEN = '7308529138:AAEQ26eKI1olMlSjJHIO18mqwC8li858-MM'
-CHAT_ID = '5006204194'  # Replace with your chat ID or get from updates
+BOT_TOKEN = 'YOUR_BOT_TOKEN'
+CHAT_ID = 'CHAT ID'  # Replace with your chat ID or get from updates
 
 # Function to send a message to Telegram
 def send_message(text):
